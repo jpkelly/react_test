@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jpkelly/react_test.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/jpkelly/react_test.git/static/js/main.edaa94da.chunk.js",
+    "main.js.map": "/jpkelly/react_test.git/static/js/main.edaa94da.chunk.js.map",
+    "runtime-main.js": "/jpkelly/react_test.git/static/js/runtime-main.f78a088a.js",
+    "runtime-main.js.map": "/jpkelly/react_test.git/static/js/runtime-main.f78a088a.js.map",
+    "static/js/2.9e384841.chunk.js": "/jpkelly/react_test.git/static/js/2.9e384841.chunk.js",
+    "static/js/2.9e384841.chunk.js.map": "/jpkelly/react_test.git/static/js/2.9e384841.chunk.js.map",
+    "index.html": "/jpkelly/react_test.git/index.html",
+    "precache-manifest.d64038d4233a05b31989535d136c731e.js": "/jpkelly/react_test.git/precache-manifest.d64038d4233a05b31989535d136c731e.js",
+    "service-worker.js": "/jpkelly/react_test.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/jpkelly/react_test.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9e384841.chunk.js.LICENSE.txt": "/jpkelly/react_test.git/static/js/2.9e384841.chunk.js.LICENSE.txt",
+    "static/media/sffbug.png": "/jpkelly/react_test.git/static/media/sffbug.9f653b26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f78a088a.js",
+    "static/js/2.9e384841.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.edaa94da.chunk.js"
+  ]
+}
